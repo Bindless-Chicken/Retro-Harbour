@@ -21,6 +21,6 @@ Missing a system? You can also submit a request!
 
 ## Systems
 ### Sega
-| System  | State  |  Size | Command
-|---|---|---|---|---|
-| Master System  | ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/bindlesschicken/sega-master-system?style=flat-square)  |  ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/bindlesschicken/sega-master-system/latest?style=flat-square) | `docker pull bindlesschicken/sega-master-system`
+| System  | State  |  Size | Command |
+|---|---|---|---|
+| Master System  | ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/bindlesschicken/sega-master-system?style=flat-square)  |  ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/bindlesschicken/sega-master-system/latest?style=flat-square) | `docker pull bindlesschicken/sega-master-system` |
